@@ -6,4 +6,5 @@
 5-listfilesdigitonly is use to show directory content(including hidden content) with user id display numerically
 6-firstdirectory is used to create directory(my_first_directory) in the /tmp/
 7-movethatfile is used to move the file betty from /tmp/ to /tmp/my_first_directory
-8-firstdelete is used to delete the file betty in the /tmp/my_first_directory directory 
+8-firstdelete is used to delete the file betty in the /tmp/my_first_directory directory
+9-firstdirdeletion is use to delete the directory /tmp/my_first_directory 
