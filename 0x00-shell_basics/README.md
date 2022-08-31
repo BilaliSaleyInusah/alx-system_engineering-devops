@@ -10,4 +10,6 @@
 9-firstdirdeletion is use to delete the directory /tmp/my_first_directory
 10-back is used to move to the previous directory 
 11-lists is used to list all the files(including hiding) starting with current directory followed by parent and /boot
-12-sysbolic_link is used to create symbolic link called _ls_ pointing to /bin/ls
+12-file_type is used to display the file type of the file iamfile in /tmp directory
+13-sysbolic_link is used to create symbolic link called _ls_ pointing to /bin/ls
+14-copy_html is used to move all HTML file in the current directory to the parent directory 
