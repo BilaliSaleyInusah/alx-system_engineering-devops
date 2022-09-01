@@ -7,3 +7,4 @@
 6-multiple_permissions is used to add multiple permission to hello file
 7-everybody is use to give execution permission to evrybody
 8-James_Bond is set the permission to the file hello as follow owner=0 group=0 user=7
+9-John_Doe is used to set the permission of hello file 
