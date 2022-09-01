@@ -5,3 +5,4 @@
 4-empty is used to an empty file call hello
 5-execute is used to add execute permission to the owner of the file hello
 6-multiple_permissions is used to add multiple permission to hello file
+7-everybody is use to give execution permission to evrybody
