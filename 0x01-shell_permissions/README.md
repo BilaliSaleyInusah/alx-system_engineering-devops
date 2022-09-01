@@ -8,3 +8,5 @@
 7-everybody is use to give execution permission to evrybody
 8-James_Bond is set the permission to the file hello as follow owner=0 group=0 user=7
 9-John_Doe is used to set the permission of hello file 
+10-mirror_permissions is used to set hello file permission to be the same as olleh file
+11-directories_permissions is used set permission for all the directories in the current directory
