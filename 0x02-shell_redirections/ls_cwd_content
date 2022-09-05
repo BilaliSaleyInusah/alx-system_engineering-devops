@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 user user 4096 Sep  5 22:53 .
+drwxr-xr-x 6 user user 4096 Sep  5 19:55 ..
+-rwxr-xr-x 1 user user   32 Sep  5 19:57 0-hello_world
+-rwxr-xr-x 1 user user   29 Sep  5 20:10 1-confused_smiley
+-rwxr-xr-x 1 user user   29 Sep  5 20:15 2-hellofile
+-rwxr-xr-x 1 user user   40 Sep  5 20:19 3-twofiles
+-rwxr-xr-x 1 user user   30 Sep  5 20:24 4-lastlines
+-rwxr-xr-x 1 user user   30 Sep  5 20:26 5-firstlines
+-rwxr-xr-x 1 user user   36 Sep  5 20:30 6-third_line
+-rwxr-xr-x 1 user user   79 Sep  5 20:57 7-file
+-rwxr-xr-x 1 user user   37 Sep  5 22:53 8-cwd_state
+-rw-r--r-- 1 user user  469 Sep  5 22:43 README.md
+-rw-r--r-- 1 user user    0 Sep  5 22:53 ls_cwd_content
