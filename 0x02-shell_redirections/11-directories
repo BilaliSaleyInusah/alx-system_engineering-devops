@@ -1,2 +1,2 @@
 #!/bin/bash 
-find . -type d ! -qth . -path | wc -l
+find . -type d ! -path . -path | wc -l
